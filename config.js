@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Rick Roccasalva",
-        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg",
+        "imageSrc": "",
         "contactDetails": [
           {
             "type": "email",
@@ -11,14 +11,28 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "416 616 9369"
+            "value": "(416) 616-9369"
+          }
+        ]
+      },
+      {
+        "name": "Steven Simonetti",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "steven@istreetrealty.ca"
+          },
+          {
+            "type": "phone",
+            "value": "(416) 400-7653"
           }
         ]
       }
     ],
     "companyName": "iStreet Realty Group",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": "1437870807350352"
@@ -43,10 +57,10 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg"
+        "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KyeQTgnX03giMLGAsQCM/media/681d180c6b471c48f7980705.webp"
       },
       "paragraphs": [
-        "At iStreet Realty Group, we are built on integrity, insight, and innovation. We combine decades of real estate expertise with cutting-edge technology to deliver unmatched support, transparency, and results for our clients.\n\nWith over 40 years of hands-on real estate experience and extensive corporate backgrounds, our managing partners provide a balanced and strategic approach to Residential, Commercial, and Investment properties.\n\nWe prioritize clear communication and use the latest market insights to guide every client toward success - whether buying, selling, or investing.\n\nAt iStreet Realty Inc., we’re more than real estate experts—we’re your trusted partner in building your future."
+        "At iStreet Realty Group, we are built on integrity, insight, and innovation. We combine decades of real estate expertise with cutting-edge technology to deliver unmatched support, transparency, and results for our clients.\n\nWith over 40 years of hands-on real estate experience and extensive corporate backgrounds, our managing partners provide a balanced and strategic approach to Residential, Commercial, and Investment properties.\n\nWe prioritize clear communication and use the latest market insights to guide every client toward success—whether buying, selling, or investing.\n\nAt iStreet Realty Inc., we’re more than real estate experts—we’re your trusted partner in building your future."
       ]
     }
   },
@@ -72,9 +86,6 @@ const config = {
         "Leveraged the property's premium Court location as a key positioning advantage, highlighting the limited availability and exclusivity that creates natural urgency",
         "Orchestrated a strategic open house designed to generate momentum and create competitive energy among prospective buyers"
       ],
-      "testimonial": {
-        "quote": "\"\"They were thrilled we sold within their timeline and for the price they were hoping for! Seeing the relief on their faces when we delivered what we said we would was incredible. They said they would not hesitate to use our services for any other future real estate transactions or to recommend us to anyone else as well!\"\"<br><span>- Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
