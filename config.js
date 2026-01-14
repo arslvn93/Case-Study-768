@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "A family preparing for relocation faced the daunting reality of selling their 3-bedroom detached home at 10 Culpepper Court in Caledon during uncertain market conditions. With mounting anxiety about finding the right buyers and achieving their target price, they needed more than promises - they needed proven expertise and a concrete plan to deliver results within their 90-day timeline.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,040,000</strong> achieving 97% of the revised asking price and meeting the sellers' financial target <strong>CLOSED IN 36 DAYS</strong> - 5 days faster than the 41-day market average for comparable properties during the same period Generated approximately 13 qualified showings with serious, pre-vetted buyers who understood the home's true value Delivered a seamless transaction that allowed the sellers to confidently move forward with their relocation plans on schedule, eliminating the stress and uncertainty that had kept them awake at night"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,040,000</strong> achieving 95% of the revised asking price and meeting the sellers' financial target <strong>CLOSED IN 36 DAYS</strong> - 5 days faster than the 41-day market average for comparable properties during the same period Generated approximately 13 qualified showings with serious, pre-vetted buyers who understood the home's true value Delivered a seamless transaction that allowed the sellers to confidently move forward with their relocation plans on schedule, eliminating the stress and uncertainty that had kept them awake at night"
       ]
     },
     "sidebar": {
@@ -92,7 +92,7 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "<strong>SOLD FOR $1,040,000</strong> achieving 97% of the revised asking price and meeting the sellers' financial target",
+        "<strong>SOLD FOR $1,040,000</strong> achieving 95% of the revised asking price and meeting the sellers' financial target",
         "<strong>CLOSED IN 36 DAYS</strong> - 5 days faster than the 41-day market average for comparable properties during the same period",
         "Generated approximately 13 qualified showings with serious, pre-vetted buyers who understood the home's true value",
         "Delivered a seamless transaction that allowed the sellers to confidently move forward with their relocation plans on schedule, eliminating the stress and uncertainty that had kept them awake at night"
