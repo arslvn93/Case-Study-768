@@ -21,7 +21,7 @@ const config = {
     "mainCTAButtonURL": "#contact",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    "facebookPixelId": "1437870807350352"
   },
   "header": {
     "tag": "CASE STUDY",
