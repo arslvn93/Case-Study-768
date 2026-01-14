@@ -135,13 +135,13 @@ const config = {
       "href": "https://istreetrealty.ca/privacy-policy/"
     },
     "logo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1761767184484-biorick.jpg"
+      "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KyeQTgnX03giMLGAsQCM/media/681d180c6b471c48f7980705.webp"
     },
     "secondaryLogo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Untitled-design-2.jpg"
     },
-    "brokerageLabel": "Brokerage:",
-    "brokerageName": "iStreet Realty Group - HomeLife Partners",
+    "brokerageLabel": "Realtor:",
+    "brokerageName": "iStreet Realty Group. Brokerage: Homelife Partners Realty Corp.",
     "brokerageAddress": "3850 Steeles Avenue W. Unit 6, Woodbridge, Ontario",
     "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
   },
