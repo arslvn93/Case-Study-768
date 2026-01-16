@@ -51,7 +51,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "A family preparing for relocation faced the daunting reality of selling their 3-bedroom detached home at 10 Culpepper Court in Caledon during uncertain market conditions. With mounting anxiety about finding the right buyers and achieving their target price, they needed more than promises - they needed proven expertise and a concrete plan to deliver results within their 90-day timeline.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,040,000</strong> achieving 95% of the revised asking price and meeting the sellers' financial target <strong>CLOSED IN 36 DAYS</strong> - 5 days faster than the 41-day market average for comparable properties during the same period Generated approximately 13 qualified showings with serious, pre-vetted buyers who understood the home's true value Delivered a seamless transaction that allowed the sellers to confidently move forward with their relocation plans on schedule, eliminating the stress and uncertainty that had kept them awake at night"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD FOR $1,040,000</strong> achieving 95% of the revised asking price and meeting the sellers' financial target <strong>CLOSED IN 36 DAYS</strong> - '5 days faster than the 41-day market average for comparable properties during the same period. Generated approximately 13 qualified showings with serious, pre-vetted buyers who understood the home's true value. Delivered a seamless transaction that allowed the sellers to confidently move forward with their relocation plans on schedule, eliminating the stress and uncertainty that had kept them awake at night.'"
       ]
     },
     "sidebar": {
@@ -92,7 +92,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After meeting several agents who offered generic promises and cookie-cutter approaches, these sellers chose to work with Rick Roccasalva and the iStreet Realty Group because of something different: demonstrated local market expertise backed by 40 years of real estate experience, combined with a professional approach that inspired genuine confidence. They didn't just want an agent—they wanted a strategic partner who understood the nuances of the Caledon market and could deliver measurable results."
+        "After meeting several agents who offered generic promises and cookie-cutter approaches, these sellers chose to work with Rick Roccasalva and Steven Simonetti because of something different: demonstrated local market expertise backed by 40 years of real estate experience, combined with a professional approach that inspired genuine confidence. They didn't just want an agent—they wanted a strategic partner who understood the nuances of the Caledon market and could deliver measurable results."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1768245122013-Culpepper 3.png"
