@@ -7,7 +7,7 @@ const config = {
         "contactDetails": [
           {
             "type": "email",
-            "value": "rick@istreetrealty.ca"
+            "value": "rick@roccasalva.co"
           },
           {
             "type": "phone",
